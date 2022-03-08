@@ -1,7 +1,7 @@
 <h1> Aoba 👋 </h1>
-<hr>
+
 <h2>My name is Albano Braz, I'm currently studying to become web dev</h2>
-<hr>
+
 
 
 - 🔭 I’m currently working on Michelin, as engeneering intern
