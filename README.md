@@ -1,10 +1,11 @@
-### Aoba 👋
+<h1> Aoba 👋 </h1>
+<hr>
+<h2>My name is Albano Braz, I'm currently studying to become web dev</h2>
+<hr>
 
 
-- 🔭 I’m currently working on Michelin
+- 🔭 I’m currently working on Michelin, as engeneering intern
 - 🌱 I’m currently learning Javascript, React, SQL and Node
-- 🤔 I’m looking for help with React
 - 📫 How to reach me: @albanobrz on insta
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: 4 bike accidents in one year :'(
 
