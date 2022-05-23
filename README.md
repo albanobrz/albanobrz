@@ -5,7 +5,5 @@
 
 
 - 🔭 I’m currently working on Michelin, as engeneering intern
-- 🌱 I’m currently learning Javascript, React, SQL and Node
-- 📫 How to reach me: @albanobrz on insta
-- ⚡ Fun fact: 4 bike accidents in one year :'(
-
+- 🌱 I’m currently learning Javascript, Typescript, React and Node
+- 📫 How to reach me: @albanobrz on insta or albano.braz@outlook.com
