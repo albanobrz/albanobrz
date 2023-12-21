@@ -1,6 +1,6 @@
 # Aoba 👋
 
-## My name is Albano Braz, I'm currently a fullstack dev Jr
+## My name is Albano Braz, I'm currently a backend dev
 
 
 
