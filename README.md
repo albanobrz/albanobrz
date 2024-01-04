@@ -4,5 +4,5 @@
 
 
 
-- 🔭 I’m currently working on Americanas SA;
+- 🔭 I’m currently working on TrueChange;
 - 🌱 I’m currently learning Golang and clean architecture;
