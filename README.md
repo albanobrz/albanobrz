@@ -5,4 +5,3 @@
 
 
 - 🔭 I’m currently working on TrueChange;
-- 🌱 I’m currently learning Golang and clean architecture;
