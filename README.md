@@ -1,7 +1,5 @@
-# Aoba 👋
+# Hi 👋
 
-## My name is Albano Braz, I'm currently a backend dev
+## My name is Albano Braz, I'm a software developer
 
-
-
-- 🔭 I’m currently working on TrueChange;
+- 🔭 I’m currently working on alt bank;
